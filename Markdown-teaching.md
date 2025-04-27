@@ -8,3 +8,4 @@
 `行内代码`  
 [这是GitHub](https://www.github.com)
 1. 只是我自己玩玩，你们也可以试试markdown语言来写.md文件
+2. IDEA的推送
