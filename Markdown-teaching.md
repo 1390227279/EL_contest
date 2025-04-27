@@ -9,3 +9,4 @@
 [这是GitHub](https://www.github.com)
 1. 只是我自己玩玩，你们也可以试试markdown语言来写.md文件
 2. IDEA的推送
+3. 2025.4.27.22.42 IDEA的最后一次尝试
